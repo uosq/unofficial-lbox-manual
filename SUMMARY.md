@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [Welcome](README.md)
+
+## Aimbot
+
+* [Aimbot](aimbot/aimbot.md)
